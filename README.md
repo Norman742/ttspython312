@@ -405,5 +405,3 @@ $ tts --out_path output/path/speech.wav --model_name "<language>/<dataset>/<mode
     |- vocoder/         (Vocoder models.)
         |- (same)
 ```
-#   t t s p y t h o n 3 1 2  
- 
